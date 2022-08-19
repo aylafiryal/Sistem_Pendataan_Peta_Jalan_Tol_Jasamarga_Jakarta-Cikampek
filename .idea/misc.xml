@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/drawable-v24/ic_banner_foreground.xml" value="0.136" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/drawable/ic_baseline_add_circle_25.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/drawable/ic_baseline_assignment_24.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/drawable/ic_baseline_drag_indicator_24.xml" value="0.108" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2315" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.108" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/drawable/white_border.xml" value="0.241" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/activity_daftar_kegiatan.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/activity_detail_kegiatan.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/activity_detail_tempat.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/activity_dokumentasi.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/activity_input_kegiatan.xml" value="0.176" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/activity_input_tempat.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/activity_kegiatan_lokasi.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/activity_maps.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/activity_maps2.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/activity_menu.xml" value="0.12107396149949341" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/activity_riwayat.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/custom_info_window.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/kalender_popup.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/list_dokumentasi.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/list_kegiatan.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/list_lokasi.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/list_lokasi_kegiatan.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/list_riwayat.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/marker.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/layout/search_bar.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/menu/bottom_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/menu/menu.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/Lenovo/Documents/Folder Alya/Documents/Kuliah/Semester 6/Android/Jasamarga3/app/src/main/res/menu/options_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

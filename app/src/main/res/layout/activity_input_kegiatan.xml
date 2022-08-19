@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".InputKegiatanActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/judul_kegiatan_tanggal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Tanggal"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_kegiatan_tanggal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Tanggal"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_kegiatan_kalender"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="10dp"
+                android:text="Pilih Tanggal" />
+
+            <TextView
+                android:id="@+id/judul_kegiatan_kegiatan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="50dp"
+                android:text="Kegiatan"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/tv_kegiatan_kegiatan"
+                android:layout_width="360dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginStart="15dp"
+                android:hint="Isi nama kegiatan"
+                android:minHeight="48dp"
+                android:textColor="@color/black"
+                android:inputType="text|textMultiLine"
+                android:maxLength="2000"
+                android:maxLines="4"/>
+
+            <TextView
+                android:id="@+id/judul_kegiatan_tindakLanjut"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="50dp"
+                android:text="Tindak Lanjut"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/tv_kegiatan_tindaklanjut"
+                android:layout_width="360dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:hint="Isi tindakan selanjutnya"
+                android:minHeight="48dp"
+                android:textColor="@color/black"
+                android:inputType="text|textMultiLine"/>
+
+            <TextView
+                android:id="@+id/judul_kegiatan_hasil"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="50dp"
+                android:text="Hasil"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/tv_kegiatan_hasil"
+                android:layout_width="360dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:hint="Isi hasil kegiatan"
+                android:minHeight="48dp"
+                android:textColor="@color/black"
+                android:inputType="text|textMultiLine"/>
+
+            <TextView
+                android:id="@+id/judul_kegiatan_persetujuan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="50dp"
+                android:text="Persetujuan"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/tv_kegiatan_persetujuan"
+                android:layout_width="360dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:hint="Isi pihak persetujuan"
+                android:minHeight="48dp"
+                android:textColor="@color/black"
+                android:inputType="text|textMultiLine"/>
+
+            <TextView
+                android:id="@+id/judul_kegiatan_dokumentasi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="50dp"
+                android:text="Dokumentasi"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btn_kegiatan_uploadfoto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Upload"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:id="@+id/tv_kegiatan_namaFile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="5dp"
+                android:text="nama-file"
+                android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/btn_kegiatan_simpan"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="25dp"
+                android:layout_marginBottom="25dp"
+                android:text="Simpan" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

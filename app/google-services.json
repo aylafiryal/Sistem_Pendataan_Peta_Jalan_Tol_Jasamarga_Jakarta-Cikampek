@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "928767335651",
+    "project_id": "jasamarga-2653",
+    "storage_bucket": "jasamarga-2653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928767335651:android:9bbe114558fd50fcaeb9d6",
+        "android_client_info": {
+          "package_name": "com.example.jasamarga3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928767335651-e2fc0v6lv0v470g95csov33391p76mat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jasamarga3",
+            "certificate_hash": "fcd5bd4c5293881851741caa9a48eb0f16c25687"
+          }
+        },
+        {
+          "client_id": "928767335651-irovcjfuegrbum2e591uf6vq5lm5ic51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzEi-7Ys_StsiwnsH0l0Fs01MHclQ8E5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928767335651-irovcjfuegrbum2e591uf6vq5lm5ic51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
