@@ -37,7 +37,7 @@ public class EditKegiatanActivity extends AppCompatActivity {
         id_agenda = db.get_agendaID(agenda.getKegiatan(), agenda.getLokasiKM());
 
         init();
-        tanggalChanged(false);
+        tanggalChanged();
         setTanggal();
         simpanKegiatan();
     }
@@ -56,14 +56,14 @@ public class EditKegiatanActivity extends AppCompatActivity {
         persetujuan.setText(agenda.getPersetujuan());
     }
 
-    public void tanggalChanged(boolean bool) {
-        if (bool == true) {
-            tv_tanggal.setVisibility(View.VISIBLE);
-            btn_kalender.setVisibility(View.GONE);
-        }
-        if (agenda.getTanggal() == null) {
+    public void tanggalChanged(){
+        if(agenda.getTanggal() == null){
             tv_tanggal.setVisibility(View.GONE);
             btn_kalender.setVisibility(View.VISIBLE);
+        }
+        if(str_tanggal != null){
+            tv_tanggal.setVisibility(View.VISIBLE);
+            btn_kalender.setVisibility(View.GONE);
         }
     }
 
@@ -102,8 +102,7 @@ public class EditKegiatanActivity extends AppCompatActivity {
                             SimpleDateFormat sdf = new SimpleDateFormat("dd MMM yyyy");
                             kalender.set(year, month, day);
                             str_tanggal = sdf.format(kalender.getTime());
-//                            btn_Kalender_click = true;
-                            tanggalChanged(true);
+                            tanggalChanged();
                             tv_tanggal.setText(str_tanggal);
                         }
                     }, year, month, day);
